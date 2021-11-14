@@ -1,0 +1,10 @@
+C:\Users\Sander\Desktop\Rest-client\Rest-client\bin\Debug\Rest-client.exe.config
+C:\Users\Sander\Desktop\Rest-client\Rest-client\bin\Debug\Rest-client.exe
+C:\Users\Sander\Desktop\Rest-client\Rest-client\bin\Debug\Rest-client.pdb
+C:\Users\Sander\Desktop\Rest-client\Rest-client\obj\Debug\Rest-client.csprojAssemblyReference.cache
+C:\Users\Sander\Desktop\Rest-client\Rest-client\obj\Debug\Rest_client.Form1.resources
+C:\Users\Sander\Desktop\Rest-client\Rest-client\obj\Debug\Rest_client.Properties.Resources.resources
+C:\Users\Sander\Desktop\Rest-client\Rest-client\obj\Debug\Rest-client.csproj.GenerateResource.cache
+C:\Users\Sander\Desktop\Rest-client\Rest-client\obj\Debug\Rest-client.csproj.CoreCompileInputs.cache
+C:\Users\Sander\Desktop\Rest-client\Rest-client\obj\Debug\Rest-client.exe
+C:\Users\Sander\Desktop\Rest-client\Rest-client\obj\Debug\Rest-client.pdb
